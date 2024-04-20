@@ -1,4 +1,4 @@
-import 'network_method.server.dart';
+import '../../utils/utils.dart';
 
 abstract class HttpClient {
   Future callHttp(

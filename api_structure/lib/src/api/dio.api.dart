@@ -4,6 +4,7 @@ import 'package:dio/dio.dart';
 
 import '../data/model/api_response.model.dart';
 import '../interfaces/interfaces.dart';
+import '../utils/utils.dart';
 
 class DioApi implements DioClient {
   final dio = Dio();

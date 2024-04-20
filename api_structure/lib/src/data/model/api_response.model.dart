@@ -1,4 +1,4 @@
-import 'package:api_structure/src/interfaces/interfaces.dart';
+import '../../utils/utils.dart';
 
 export 'api_response.model.dart';
 

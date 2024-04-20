@@ -5,6 +5,7 @@ import 'package:http/http.dart' as http;
 
 import '../data/model/api_response.model.dart';
 import '../interfaces/interfaces.dart';
+import '../utils/utils.dart';
 
 class HttpApi implements HttpClient {
   @override
